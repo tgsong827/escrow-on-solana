@@ -139,6 +139,7 @@ dependencies = [
 name = "bpf-program-template"
 version = "0.1.0"
 dependencies = [
+ "arrayref",
  "solana-program",
  "spl-token",
  "thiserror",
